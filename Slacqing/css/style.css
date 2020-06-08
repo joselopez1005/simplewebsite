@@ -1,0 +1,115 @@
+body{
+  font-family: 'Karla', sans-serif;
+  text-align: center;
+
+}
+
+#title{
+  padding: 0rem 2rem;
+  background-color: #142850;
+  /* background-image: url(../images/background.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: auto; */
+  color: white;
+}
+
+.container-fluid{
+
+}
+
+
+.nav-item{
+  padding: 0px 18px;
+}
+
+.navbar-brand{
+  font-size: 2.5rem;
+  font-weight: 700;
+  padding: 0px 20px;
+}
+.navbar{
+  font-size: 1.2rem;
+}
+
+.main-title{
+  padding: 9.5% 3%;
+  text-align: left;
+}
+
+.subheading{
+  font-size: 3rem;
+  line-height: 1.5;
+  letter-spacing: 2px;
+  font-weight: 700;
+}
+
+.main-image{
+  width: 100%;
+  height: auto;
+}
+
+#features{
+    /* background-color: #dae1e7; */
+    background-color: #fff;
+    padding: 3.5% 3%;
+
+}
+.features-section{
+    padding: 3% 0% ;
+}
+.features-heading{
+    padding: 2% 0%;
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+
+.features-symbols{
+
+  color:#1b1b2f;
+  font-size: 7rem;
+}
+
+.features-text{
+  padding: 40px 0px;
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.carousel-container{
+  color: white;
+}
+
+#testimonial{
+  text-align: center;
+  padding: 3.5% 3%;
+  background-color: #1F4068;
+
+
+}
+.testimonial-image{
+  width: 120px;
+  height: 120px;
+  border-radius: 100%;
+  background-color: white;
+}
+.testimonial-text{
+  padding: 60px 60px 0px;
+  font-size: 4rem;
+  font-weight: 700;
+}
+
+.testimonial-name{
+  padding: 10px 0px;
+}
+
+#footer{
+    padding: 3% 15%;
+    text-align: center;
+}
+
+.footer-icon{
+    margin-right: 20px;
+    font-size: 1.5rem;
+}
